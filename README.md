@@ -4,6 +4,8 @@
 
 ## Bem vindo ao meu projeto de portfólio.
 
+# link: https://portifolio-css.vercel.app/index.html
+
 ![image](https://github.com/Duarts-D/Portifolio_css/blob/master/assets/index.JPG?raw=true)
 
 ## Ferramentas utilizadas:
